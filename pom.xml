@@ -34,7 +34,7 @@
         <spring-boot.version>2.2.1.RELEASE</spring-boot.version>
         <swagger.version>3.0.0</swagger.version>
         <sonar.tests>src/test/groovy,src/test/java</sonar.tests>
-        <sonar.projectKey>lince-open_lince-commons-java</sonar.projectKey>
+        <sonar.projectKey>lince-open_lince-commons-swagger-java</sonar.projectKey>
         <sonar.organization>lince-open</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
