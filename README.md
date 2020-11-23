@@ -1,2 +1,1 @@
 # lince-commons-swagger-java
-
